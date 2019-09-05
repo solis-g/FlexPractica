@@ -1,0 +1,76 @@
+body{
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+
+    background: lightpink;
+}
+
+#he{
+
+    width: 100%;
+    height: 15%;
+    padding: 1em;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+    background: white;
+}
+
+.se{
+    width: 100%;
+    height: 70%;
+
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    align-content: center;
+}
+
+.uno{
+    width: 33.33%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+    border: none;
+    background: lightgreen;
+}
+
+.dos{
+    width: 33.33%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+    border: none;
+    background: lightskyblue;
+}
+
+.tres{
+    width: 33.33%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+    border: none;
+    background: lightgrey;
+}
+
+.f{ 
+    width: 100%;
+    height: 15%;
+    padding: 1em;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+    border: none;
+
+    background: burlywood
+}
+
