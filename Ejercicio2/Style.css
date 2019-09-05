@@ -1,0 +1,34 @@
+.constainer{
+    display: flex;
+   flex-direction: row;
+
+}
+
+.header{
+    display: flex;
+    background: aqua;
+    justify-content: center;
+    width: 100%;
+
+}
+
+.main{
+    display: flex;
+    flex: 1 1 auto;
+    height: 600px;
+    justify-content: center;
+    background: coral;
+
+}
+.section{
+    display: flex;
+    flex: 1 1 auto;
+    justify-content: center;
+    height: 600px;
+    background: #ccccff;
+}
+.footer{
+    display: flex;
+    background: red;
+    width: 100%;
+}
