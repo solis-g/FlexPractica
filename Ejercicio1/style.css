@@ -1,0 +1,53 @@
+
+body{
+    width: 60;
+    height: 60;
+
+    padding: 1em 5%;
+    margin: 10;
+
+    background: whitesmoke;
+
+}
+
+.header{
+  
+    background-color: blueviolet;
+    width: 100%;
+    height: 10%;
+
+    color: black;
+}
+
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+
+}
+
+.ppp{
+
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+
+}
+
+.footer{
+
+    background-color: goldenrod;
+    width: 100%;
+    height: 10%;
+
+    color: black;
+
+
+}
+
+
+
+
+
